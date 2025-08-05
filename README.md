@@ -82,7 +82,7 @@ All dimension tables connect to the fact table via the `show_id` key, forming a 
 
 ## 🖼️ Data Model Preview
 
-![Data Model](./Screenshot%20(646).png)
+![Data Model](Data_model.png)
 
 > This image shows how the tables are linked using `show_id` with clean relationships.
 
