@@ -4,6 +4,10 @@ This project demonstrates how to analyze and visualize Netflix data using **Powe
 
 ---
 
+![Netflix](Netflix.png)
+
+---
+
 ## 📁 1. Data Sources
 
 The dataset includes various CSV files containing information on Netflix shows:
